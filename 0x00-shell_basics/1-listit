@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD
+ls
+=======
+chmod u+x file
+>>>>>>> 44177d444eb153148064b4909e1a0268da7d9093
